@@ -27,4 +27,4 @@ mkBanner "=" "50" "HELLO, WORLD!"
 mkBanner "=" "50" "THIS IS A FIRST LINE MESSAGE.\n THIS IS A SECOND LINE MESSAGE.\n THIS IS A THIRD LIND MESSAGE."
 ```
 
-
+Please reference `include.sh` to see a working example of using this utility.
